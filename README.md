@@ -4,7 +4,10 @@ Aplicação desenvolvida durante o curso de MEAN Stack Development: https://www.
 ### Configuração
 
 - Instalar node e mongo
-- npm install dentro de backend
+- dentro de backend
+```
+npm install
+```
 - npm install dentro de angular1
 - mongod
 - npm run production dentro de backend
